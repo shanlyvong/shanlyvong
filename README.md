@@ -1,7 +1,8 @@
 💫 Hi! My name is Shanly Vong and welcome to my Github! 💫
-- I am a senior at UNC Chapel Hill studying Neuroscience, Computer Science, and Philosophy 🧬
-- I have experience in Java, Python, C++, HTML/CSS/Flask, R, and Matlab (but we all know Python rocks!) 💻
-- Some of my interests include scientific research (especially the intersection of Neuroscience and Computer Science), 3D Printing, AI, algorithmic bias, computing ethics, and NLP 🥼
+- I am a recent alum of UNC Chapel Hill where I studied Neuroscience and Computer Science 🧬
+- I currently am pursuing research at Stanford University!
+- I have experience in Java, Python, C+, HTML/CSS/Flask, R, and Matlab (but we all know Python rocks!) 💻
+- Some of my interests include scientific research (especially the intersection of Neuroscience and Computer Science), AI, algorithmic bias, computing ethics, and NLP 🥼
 
 ✨ Fun Facts! ✨
 - I love Cabinet Battle #1 from Hamilton and play it on a semi-daily basis 🔥
