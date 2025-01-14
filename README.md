@@ -6,7 +6,7 @@
 - Some of my interests include scientific research (especially the intersection of Neuroscience and Computer Science), AI, algorithmic bias, computing ethics, and NLP 🥼
 
 ✨ Fun Facts! ✨
-- I love Cabinet Battle #1 from Hamilton and play it on a semi-daily basis 🔥
+- I love reading: my favorite author is Octavia Butler 🔥
 - I am an avid-hyphen-enthusiast ➖
 - I'm currently training for a marathon! 📣
 
