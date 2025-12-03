@@ -5,7 +5,7 @@
 - Some of my interests include scientific research (especially the intersection of Neuroscience and Computer Science), computational neuroscience, neuro-oncology, and computing ethics 🥼
 
 ✨ Fun Facts! ✨
-- Currently Reading: The Wretched of the Earth by Frantz Fanon 
+- Currently Reading: Babel by R.F. Kuang
 - I'm currently training for a marathon! 📣
 
 <!---
